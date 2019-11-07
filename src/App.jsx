@@ -1,12 +1,16 @@
 import React from 'react';
-import { TailSpin } from 'svg-loaders-react';
+import Person from './components/Person';
+import Sites from './components/Sites';
 
-function App() {
-  return (
-    <div>
-      <TailSpin fill="#000" fill-opacity="#000"/>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <React.Fragment>
+        <Person name={'Vince'} age={20} />
+        <Sites />
+      </React.Fragment>
+    );
+  }
 }
 
 export default App;
