@@ -2,11 +2,9 @@
 
 Introduction to ReactJs
 
-## Done
+## Topics to be discussed today:
    - JavaScript ES6 features
    - High level Introduction in React
-
-## Topics to be discussed today:
    - JSX in depth discuss double ampersand and double pipe operator and Conditional Handling in JSX
    - 2 kinds of React component Stateful and Presentational
    - Handling Events and Callbacks
