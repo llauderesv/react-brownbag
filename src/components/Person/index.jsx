@@ -44,11 +44,9 @@ class Person extends React.Component {
 
   checkAge() {
     const { age } = this.props;
-
-    if (age > 21) {
+    if (age < 21) {
       return 'Too young';
     }
-
     return 'Too old';
   }
 
