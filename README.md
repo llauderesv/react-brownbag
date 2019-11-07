@@ -2,7 +2,7 @@
 
 Introduction to ReactJs
 
-## Topics to be discussed today:
+## Topics:
    - JavaScript ES6 features
    - High level Introduction in React
    - JSX in depth discuss double ampersand and double pipe operator and Conditional Handling in JSX
