@@ -1,0 +1,8 @@
+Done
+   - JavaScript ES6 features
+   - High level Introduction in React
+
+Agenda for today:
+   - State vs Props
+   - Handling Events in React
+   - 
