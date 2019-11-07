@@ -13,4 +13,3 @@ Introduction to ReactJs
    - Best practices in component lifecycle
    - Higher Order Component (Separation of Concerns)
    - Introduction to React Hooks
-   - High level Overview of architecture of React in eREC
